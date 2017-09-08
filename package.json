@@ -1,0 +1,17 @@
+{
+  "name": "touch-events",
+  "description": "Common touchscreen gestures abstraction",
+  "version": "1.0.0",
+  "main": "touch-events.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcus-timtow/TouchEvents.git"
+  },
+  "keywords": ["touchevents", "touchscreen", "gesture", "swipe"],
+  "author": "Marcus Timtow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcus-timtow/TouchEvents/issues"
+  },
+  "homepage": "https://github.com/marcus-timtow/TouchEvents"
+}
